@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ TECH STACK</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,jupyter,vscode,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,vscode,mysql,github" />
 </p>
 
 <p align="center">
