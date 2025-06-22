@@ -1,4 +1,5 @@
-````markdown
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=180&section=header&text=Aariz%20Hasan%20%7C%20Tech%20Explorer%20🧠&fontColor=fff&fontSize=35&animation=fadeIn" />
 </p>
@@ -38,13 +39,13 @@
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,jupyter,vscode,mysql,github" />
 </p>
 
-```txt
-Languages:  Python 🐍 | SQL 🗃 | Bash 🐚
-Frameworks: Pandas 🐼 | NumPy 🔢
-Systems:    Ubuntu 🚀 | Jupyter 📓 | GitHub CLI ⌨️
-Vibes:      Minimal. Functional. Performant.
-Workflow:   Build → Break → Fix → Repeat 🔁
-````
+<p align="center">
+<code>Languages:</code> Python 🐍 | SQL 🗃 | Bash 🐚 <br/>
+<code>Frameworks:</code> Pandas 🐼 | NumPy 🔢 <br/>
+<code>Systems:</code> Ubuntu 🚀 | Jupyter 📓 | GitHub CLI ⌨️ <br/>
+<code>Vibes:</code> Minimal. Functional. Performant. <br/>
+<code>Workflow:</code> Build → Break → Fix → Repeat 🔁
+</p>
 
 ---
 
@@ -63,7 +64,7 @@ Workflow:   Build → Break → Fix → Repeat 🔁
   <tr>
     <td><strong>Melanoma Detector</strong></td>
     <td>AI-powered CNN model that detects skin cancer from dermatoscopic images</td>
-    <td>Live ✅</td>
+    <td>✅ Live</td>
   </tr>
   <tr>
     <td><strong>...More Coming</strong></td>
@@ -99,4 +100,5 @@ Workflow:   Build → Break → Fix → Repeat 🔁
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aariz-Hasan&style=flat-square&color=08FDD8" />
 </p>
-```
+
+---
