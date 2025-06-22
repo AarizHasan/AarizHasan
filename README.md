@@ -51,10 +51,6 @@
 
 <h2 align="center">🚀 FEATURED PROJECT</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aariz-Hasan&repo=melanoma-detection&theme=radical" />
-</p>
-
 <table align="center">
   <tr>
     <th>🔬 Project</th>
